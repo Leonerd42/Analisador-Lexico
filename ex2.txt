@@ -1,0 +1,20 @@
+program SegundoExemplo
+	var 		// comentario besta
+		a, b, c; real; 
+	procedure fibonacci; 
+		var fb: integer; 
+	begin 
+		fb:= fb1 + fb2; 
+		if(fb1) = 1 then 1
+		else 2
+	end;
+begin
+	read(fb);
+	s:= 0; i:= 2;
+	while i<=n do
+	begin	
+		soma;
+		write (s);
+		i:=i+1;
+	end
+end.

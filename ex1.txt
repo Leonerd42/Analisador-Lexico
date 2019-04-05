@@ -1,0 +1,25 @@
+program exemplo1
+	var 		// comentario besta
+		n, s, i: integer;
+	var 
+		vetor:= [1..10]; 
+	procedure soma;
+		var q: integer;
+	begin 
+		q:=i*i; // olá
+		if (i div 2)*2 = i then
+			s:=s+q; 
+		else 
+			s:=s-q;
+	end;
+begin
+	read(n);
+	s:= 0; i:= 2;
+	while i<=n do
+	begin	
+		soma;
+		write (s);
+		i:=i+1;
+	end
+end.			
+			
